@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+
+# private working files
+UPWORK_PORTFOLIO.md
+tu-portfolio.html
+upwork-covers/
